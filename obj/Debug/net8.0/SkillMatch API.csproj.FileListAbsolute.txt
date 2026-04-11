@@ -1,0 +1,37 @@
+D:\Skill Match\SkillMatch API\obj\Debug\net8.0\SkillMatch API.csproj.AssemblyReference.cache
+D:\Skill Match\SkillMatch API\obj\Debug\net8.0\SkillMatch API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Skill Match\SkillMatch API\obj\Debug\net8.0\SkillMatch API.AssemblyInfoInputs.cache
+D:\Skill Match\SkillMatch API\obj\Debug\net8.0\SkillMatch API.AssemblyInfo.cs
+D:\Skill Match\SkillMatch API\obj\Debug\net8.0\SkillMatch API.csproj.CoreCompileInputs.cache
+D:\Skill Match\SkillMatch API\obj\Debug\net8.0\SkillMatch API.MvcApplicationPartsAssemblyInfo.cs
+D:\Skill Match\SkillMatch API\obj\Debug\net8.0\SkillMatch API.MvcApplicationPartsAssemblyInfo.cache
+D:\Skill Match\SkillMatch API\bin\Debug\net8.0\appsettings.Development.json
+D:\Skill Match\SkillMatch API\bin\Debug\net8.0\appsettings.json
+D:\Skill Match\SkillMatch API\bin\Debug\net8.0\SkillMatch API.exe
+D:\Skill Match\SkillMatch API\bin\Debug\net8.0\SkillMatch API.deps.json
+D:\Skill Match\SkillMatch API\bin\Debug\net8.0\SkillMatch API.runtimeconfig.json
+D:\Skill Match\SkillMatch API\bin\Debug\net8.0\SkillMatch API.dll
+D:\Skill Match\SkillMatch API\bin\Debug\net8.0\SkillMatch API.pdb
+D:\Skill Match\SkillMatch API\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Skill Match\SkillMatch API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Skill Match\SkillMatch API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Skill Match\SkillMatch API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Skill Match\SkillMatch API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Skill Match\SkillMatch API\obj\Debug\net8.0\staticwebassets.build.json
+D:\Skill Match\SkillMatch API\obj\Debug\net8.0\staticwebassets.development.json
+D:\Skill Match\SkillMatch API\obj\Debug\net8.0\staticwebassets\msbuild.SkillMatch API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Skill Match\SkillMatch API\obj\Debug\net8.0\staticwebassets\msbuild.build.SkillMatch API.props
+D:\Skill Match\SkillMatch API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SkillMatch API.props
+D:\Skill Match\SkillMatch API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SkillMatch API.props
+D:\Skill Match\SkillMatch API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Skill Match\SkillMatch API\obj\Debug\net8.0\scopedcss\bundle\SkillMatch API.styles.css
+D:\Skill Match\SkillMatch API\obj\Debug\net8.0\SkillMat.F117B928.Up2Date
+D:\Skill Match\SkillMatch API\obj\Debug\net8.0\SkillMatch API.dll
+D:\Skill Match\SkillMatch API\obj\Debug\net8.0\refint\SkillMatch API.dll
+D:\Skill Match\SkillMatch API\obj\Debug\net8.0\SkillMatch API.pdb
+D:\Skill Match\SkillMatch API\obj\Debug\net8.0\SkillMatch API.genruntimeconfig.cache
+D:\Skill Match\SkillMatch API\obj\Debug\net8.0\ref\SkillMatch API.dll
+D:\Skill Match\SkillMatch API\bin\Debug\net8.0\SkillMatch API.xml
+D:\Skill Match\SkillMatch API\obj\Debug\net8.0\SkillMatch API.xml
+D:\Skill Match\SkillMatch API\bin\Debug\net8.0\package-lock.json
+D:\Skill Match\SkillMatch API\bin\Debug\net8.0\package.json
