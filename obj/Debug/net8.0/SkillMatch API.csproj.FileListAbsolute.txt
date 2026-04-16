@@ -19,11 +19,6 @@ D:\Skill Match\SkillMatch API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen
 D:\Skill Match\SkillMatch API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\Skill Match\SkillMatch API\obj\Debug\net8.0\staticwebassets.build.json
 D:\Skill Match\SkillMatch API\obj\Debug\net8.0\staticwebassets.development.json
-D:\Skill Match\SkillMatch API\obj\Debug\net8.0\staticwebassets\msbuild.SkillMatch API.Microsoft.AspNetCore.StaticWebAssets.props
-D:\Skill Match\SkillMatch API\obj\Debug\net8.0\staticwebassets\msbuild.build.SkillMatch API.props
-D:\Skill Match\SkillMatch API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SkillMatch API.props
-D:\Skill Match\SkillMatch API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SkillMatch API.props
-D:\Skill Match\SkillMatch API\obj\Debug\net8.0\staticwebassets.pack.json
 D:\Skill Match\SkillMatch API\obj\Debug\net8.0\scopedcss\bundle\SkillMatch API.styles.css
 D:\Skill Match\SkillMatch API\obj\Debug\net8.0\SkillMat.F117B928.Up2Date
 D:\Skill Match\SkillMatch API\obj\Debug\net8.0\SkillMatch API.dll
@@ -35,3 +30,13 @@ D:\Skill Match\SkillMatch API\bin\Debug\net8.0\SkillMatch API.xml
 D:\Skill Match\SkillMatch API\obj\Debug\net8.0\SkillMatch API.xml
 D:\Skill Match\SkillMatch API\bin\Debug\net8.0\package-lock.json
 D:\Skill Match\SkillMatch API\bin\Debug\net8.0\package.json
+D:\Skill Match\SkillMatch API\bin\Debug\net8.0\SkillMatch API.staticwebassets.endpoints.json
+D:\Skill Match\SkillMatch API\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Skill Match\SkillMatch API\obj\Debug\net8.0\SkillMatch API.sourcelink.json
+D:\Skill Match\SkillMatch API\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Skill Match\SkillMatch API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Skill Match\SkillMatch API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Skill Match\SkillMatch API\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Skill Match\SkillMatch API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Skill Match\SkillMatch API\obj\Debug\net8.0\swae.build.ex.cache
+D:\Skill Match\SkillMatch API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

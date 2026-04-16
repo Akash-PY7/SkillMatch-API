@@ -1,11 +1,1 @@
-{
-  "Version": 1,
-  "Hash": "j4Kjm2vdAGMZpem9d1l0ELjaASuXv1bYkxOUNzlONGU=",
-  "Source": "SkillMatch API",
-  "BasePath": "_content/SkillMatch API",
-  "Mode": "Default",
-  "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
-}
+{"Version":1,"Hash":"UjO/Zc63H40oyxWnXAU6vV4/qzyiFMFH6VuqcuPbeOA=","Source":"SkillMatch API","BasePath":"/","Mode":"Root","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}
